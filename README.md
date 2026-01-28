@@ -2,6 +2,12 @@
 
 A modern Android weather application built with **MVVM + Clean Architecture** pattern, showcasing best practices in Android development.
 
+<img width="390" height="835" alt="image" src="https://github.com/user-attachments/assets/5dbdeb5b-f5da-44f8-bc05-3b14c8b27bc4" />
+<img width="390" height="835" alt="image" src="https://github.com/user-attachments/assets/7e7dd46d-5d11-424b-a8f0-f47c214751a3" />
+<img width="390" height="835" alt="image" src="https://github.com/user-attachments/assets/01c3b151-8022-4650-8a5b-aafcce94840c" />
+
+
+
 ## 🏗️ Architecture
 
 This project follows **Clean Architecture** principles with clear separation of concerns:
