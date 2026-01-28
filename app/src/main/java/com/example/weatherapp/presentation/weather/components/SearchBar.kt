@@ -39,7 +39,7 @@ fun SearchBar(
             value = query,
             onValueChange = onQueryChange,
             modifier = Modifier.weight(1f),
-            placeholder = { Text("Enter US city name or State or Zip Code") },
+            placeholder = { Text("Enter US city or State or Zip") },
             leadingIcon = {
                 Icon(
                     imageVector = Icons.Default.Search,
